@@ -16,7 +16,11 @@ This recipe will step you through creating a button for Opportunity List Views t
 4. Upload your docx Template onto the Files tab by following these instructions: https://www.mambomerge.com/support/how-to-use-mambo-merge-to-generate-a-new-word-docx-file-drag-and-drop-copy/
 
 5. Create a new Mambo Merge Configuration with Id OpportunityListView as follows:
+
 5a. Click on the down arrow in the top right corner of Mambo Merge and choose Setup
+
 5b. Create a new Configuration named OpportunityListView
+
 5c. Add a new button to the configuration and specify your Template Id
+
 5d. Save the Configuration
